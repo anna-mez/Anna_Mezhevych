@@ -5,4 +5,7 @@ Prerequisites : Node.js
 ```
 git clone https://github.com/anna-mez/Anna_Mezhevych.git WebAPI
 cd WebAPI
+npm install
+npm test
+```
 
