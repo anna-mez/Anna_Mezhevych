@@ -1,9 +1,9 @@
-# Anna_Mezhevych
+# WebUI Selenium - Variant 1
 ## Prerequisites
 Prerequisites : 
 - Node.js
 - Firefox
 ## Get started
 ```
-git clone 
+git clone https://github.com/anna-mez/Anna_Mezhevych.git  
 ```
