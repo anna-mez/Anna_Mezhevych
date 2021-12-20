@@ -8,7 +8,5 @@ Prerequisites :
 git clone https://github.com/anna-mez/Anna_Mezhevych.git WebUI
 cd WebUI
 npm i
-npm i selenium-webdriver
-npm i geckodriver
 npm start
 ```
